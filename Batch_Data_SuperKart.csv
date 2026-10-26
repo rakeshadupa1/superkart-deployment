@@ -1,0 +1,11 @@
+Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_MRP,Store_Size,Store_Location_City_Type,Store_Type,Product_Id_char,Store_Age_Years,Product_Type_Category
+11.76,No Sugar,0.075,158.08,Medium,Tier 2,Supermarket Type2,NC,16,Non Perishables
+13.95,No Sugar,0.141,136.71,Medium,Tier 2,Supermarket Type2,NC,16,Non Perishables
+13.14,Low Sugar,0.019,119.61,Medium,Tier 2,Supermarket Type2,FD,16,Perishables
+14.08,Low Sugar,0.047,133.08,Medium,Tier 2,Supermarket Type2,FD,16,Perishables
+20.65,Low Sugar,0.106,223.98,Medium,Tier 1,Departmental Store,FD,26,Perishables
+10.97,Low Sugar,0.02,127.49,Medium,Tier 2,Supermarket Type2,FD,16,Perishables
+13.72,No Sugar,0.011,144.14,Medium,Tier 2,Supermarket Type2,NC,16,Non Perishables
+8.19,No Sugar,0.049,137.13,Small,Tier 3,Food Mart,NC,27,Non Perishables
+12.54,Low Sugar,0.077,135.28,Medium,Tier 2,Supermarket Type2,FD,16,Non Perishables
+14.83,Low Sugar,0.147,183.62,High,Tier 2,Supermarket Type1,FD,38,Non Perishables
